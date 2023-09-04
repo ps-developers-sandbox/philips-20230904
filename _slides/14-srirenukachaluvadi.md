@@ -3,7 +3,7 @@ layout: slide
 title: "Introducing Renuka!"
 ---
 
-Caption here
+Renuka!
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
