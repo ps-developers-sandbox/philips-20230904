@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducing Renuka!"
 ---
 
-Caption here
+Renuka!
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
