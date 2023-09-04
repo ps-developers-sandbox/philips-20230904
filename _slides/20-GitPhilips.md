@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Sonia!"
 ---
 
-Caption here
+First Caption
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
