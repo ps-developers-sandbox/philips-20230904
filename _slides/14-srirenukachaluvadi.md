@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Introducing Renuka!"
+title: "Introducing Renu!"
 ---
 
 Renuka!
