@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "This is how I look like ;-) !"
 ---
 
-Caption here
+Ingmar Degner-Elsner from Hamburg/Germany
 
 ![octocat-de-los-muertos](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
 {: .center}
