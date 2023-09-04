@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducting Ankit Kumar"
 ---
 
-Caption here
+Ankit Kumar
 
 ![labtocat](https://octodex.github.com/images/labtocat.png)
 {: .center}
