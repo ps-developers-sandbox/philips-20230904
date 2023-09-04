@@ -3,6 +3,8 @@
 - Class Date: Sept 4-5, 2023
 - Facilitator: @jessehouwing
 
+![Company logo](https://logosmarcas.net/wp-content/uploads/2020/09/Philips-Logo-1938-1968.png)
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
