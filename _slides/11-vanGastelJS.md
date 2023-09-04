@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Introducing Jeroen van Gastel!"
 ---
 
-Caption here
+Jeroen van Gastel
 
 ![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
 {: .center}
